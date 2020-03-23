@@ -1,5 +1,5 @@
 {
-  "name": "mypackage",
+  "name": "@dtestpublish/mypackage",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "Dhiraj Gupta <dhiraj.gupta23@gmail.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "10539b8e0c724bf5e504c530e56b663bfb3d54eb"
 }
