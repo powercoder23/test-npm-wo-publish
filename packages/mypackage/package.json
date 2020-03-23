@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "Dhiraj Gupta <dhiraj.gupta23@gmail.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/mypackage.js",
   "directories": {
     "lib": "lib",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5c23d5a7d732d1ab58b7485bf7b7b932a45f0d40"
+  "gitHead": "6861e495deda5be8ba73aa7722dcb9a15db3da27"
 }
