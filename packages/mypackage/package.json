@@ -1,5 +1,5 @@
 {
-  "name": "@powercoder/mypackage",
+  "name": "@powercoder23/mypackage",
   "version": "1.0.9",
   "description": "> TODO: description",
   "author": "Dhiraj Gupta <dhiraj.gupta23@gmail.com>",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "3082b76467acc9e1c3dd16038d3585eaa3ed4980"
+  "gitHead": "5c97acbc96cfcac0e4ac4c98615145a4639ada15"
 }
